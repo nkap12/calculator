@@ -1,0 +1,15 @@
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/bin/Debug/net6.0/calculator
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/bin/Debug/net6.0/calculator.dll
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.dll
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/nichole_tpximpact/Projects/HelloWorld/calculator/obj/Debug/net6.0/ref/calculator.dll
